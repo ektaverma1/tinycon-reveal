@@ -1,0 +1,7 @@
+.right
+{
+position:absolute;
+left:400px;
+top:50px;
+z-index:-1
+}
